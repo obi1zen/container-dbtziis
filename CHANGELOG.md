@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Jul 13 2024)
+
+#### 🐛 Bug Fix
+
+- added name [#2](https://github.com/obi1zen/container-dbtziis/pull/2) ([@obi1zen](https://github.com/obi1zen))
+
+#### Authors: 1
+
+- [@obi1zen](https://github.com/obi1zen)
+
+---
+
 # v0.0.1 (Mon Jul 08 2024)
 
 :tada: This release contains work from a new contributor! :tada:
